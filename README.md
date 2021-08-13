@@ -1,6 +1,6 @@
 # C-Games
 
-Games developed using C programming language
+Games developed using basic C programming language
 
 List of Games: 
 * Hero of Goahnd [[1](https://www.sbgames.org/sbgames2019/files/papers/WorkshopG2/199459.pdf)]. 
